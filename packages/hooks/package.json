@@ -1,0 +1,14 @@
+{
+  "name": "@swift/hooks",
+  "type": "module",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.ts",
+  "module": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["React", "hooks"],
+  "author": "Martin Shaw",
+  "license": "ISC"
+}

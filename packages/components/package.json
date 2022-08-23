@@ -1,0 +1,17 @@
+{
+  "name": "@swift/components",
+  "type": "module",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.ts",
+  "module": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["React", "components"],
+  "author": "Martin Shaw",
+  "license": "ISC",
+  "dependencies": {
+    "@swift/hooks": "^1.0.3"
+  }
+}
