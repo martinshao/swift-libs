@@ -8,5 +8,7 @@ const hookLane = 15
 
 const lane = '19'
 
-export { hook, hooQueue, hookLane, lane }
+const renderWithHooks = () => console.info('start render with hooks...')
+
+export { hook, hooQueue, hookLane, lane, renderWithHooks }
 export default hookType
