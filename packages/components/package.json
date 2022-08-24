@@ -1,7 +1,7 @@
 {
   "name": "@swift/components",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.ts",
   "module": "index.ts",
@@ -15,6 +15,6 @@
   "author": "Martin Shaw",
   "license": "ISC",
   "dependencies": {
-    "@swift/hooks": "^1.0.4"
+    "@swift/hooks": "^1.0.5"
   }
 }
